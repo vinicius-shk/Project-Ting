@@ -1,5 +1,5 @@
 # Ting
-Building file indexing system similar to a very simplified functionalitty of Google. This project consists of two modules:
+Building file indexing system similar to a very simplified functionality of Google. This project consists of two modules:
 
  - file management
  - file searching
